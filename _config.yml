@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Elizabeth Yankovsky"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : elizabethyankovsky.github.io
+subtitle                 : "July 2022"
+name                     : "Elizabeth Yankovsky"
+description              : "My personal website."
+url                      : "https://elizabethyankovsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ElizabethYankovsky/elizabethyankovsky.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Elizabeth Yankovsky"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "About me."
+  location         : "Princeton, New Jersey, USA"
+  email            : "eay8226@nyu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
