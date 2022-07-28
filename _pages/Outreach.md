@@ -10,9 +10,9 @@ classes: wide
 feature_row1-0:
   - image_path: assets/images/outreach0.png
     excerpt: "In May 2022 participated in Science Week at PS154 in Brooklyn, NY. 
-We held a Stem Professionals Day to introduce elementary school kids to the wide variety of STEM careers available to them.
-We had a ZOOM session in which each of the speakers outlined what role science and engineering plays in their career, and then the students were invited to Q&A sessions in breakout rooms with each speaker. 
-I enjoyed speaking with the students and was surprised by how creative ('what's your spirit sea creature?') and insightful ('will technology be society's downfall or savior?') some of their questions were!" 
+The school hosted a Stem Professionals Day to introduce elementary school kids to the wide variety of STEM careers available to them.
+I and several speakers held a ZOOM session in which each of us discussed the role science and engineering play in our careers, and then the students were invited to Q&A sessions in breakout rooms with each speaker. 
+I enjoyed speaking with the students and was surprised by how creative (*'what's your spirit sea creature?'*) and insightful (*'will technology be society's downfall or savior?'*) some of their questions were!" 
 
 feature_row1-1:
   - title: "New Jersey Ocean Fun Days"
