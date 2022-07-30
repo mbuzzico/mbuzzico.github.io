@@ -48,17 +48,33 @@ feature_row1-5:
     **Elizabeth Yankovsky** and Sonya Legg (2019).
     *Journal of Physical Oceanography*. <br />
     doi: https://doi.org/10.1175/JPO-D-18-0072.1"
----
 
-## Preprints
+feature_row1-6:
+  - image_path: /assets/images/thesis.png
+    excerpt: "[Modeling and Parameterizing Submesoscale Turbulence in Dense Arctic Flows](https://dataspace.princeton.edu/handle/88435/dsp014f16c588m) <br />
+    **Elizabeth Yankovsky** (2020). Advised by: Sonya Legg, Robert Hallberg, Rong Zhang, and Stephen Griffies."
+
+feature_row1-7:
+  - image_path: /assets/images/undergrad.png
+    excerpt: "[Seismic and Gravity Evidence for Methane-Hydrate Systems in the Central Aleutian Basin](https://doi.org/10.35840/2631-5033/1801) <br />
+    **Elizabeth Yankovsky**, Darrell Terry, and Camelia Knapp (2015). 
+    *International Journal of Earth Science and Geophysics*. <br />
+    doi: https://doi.org/10.35840/2631-5033/1801"
+--- 
+
+### Preprints
 &nbsp;
 {% include feature_row id="feature_row1-0" type="right" %}
 {% include feature_row id="feature_row1-1" type="right" %}
-
-## Journal Articles
+### Journal Articles
 &nbsp;
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="right" %}
 {% include feature_row id="feature_row1-4" type="right" %}
 {% include feature_row id="feature_row1-5" type="right" %}
-
+### Thesis
+&nbsp;
+{% include feature_row id="feature_row1-6" type="right" %}
+### Undergraduate Work
+&nbsp;
+{% include feature_row id="feature_row1-7" type="right" %}
