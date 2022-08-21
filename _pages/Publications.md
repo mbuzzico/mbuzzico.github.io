@@ -51,6 +51,7 @@ feature_row1-5:
 
 feature_row1-6:
   - image_path: /assets/images/thesis.png
+    image_caption: "Figure from Jakobsson (2002)"
     excerpt: "[Modeling and Parameterizing Submesoscale Turbulence in Dense Arctic Flows](https://dataspace.princeton.edu/handle/88435/dsp014f16c588m) <br />
     **Elizabeth Yankovsky** (2020). Advised by: Sonya Legg, Robert Hallberg, Rong Zhang, and Stephen Griffies."
 
