@@ -1,7 +1,11 @@
+---
 layout: single
 title: "Teaching"
 permalink: /Teaching/
 header:
-  #image: /assets/images/mode_atlas_background_4.png
+    overlay_image: /assets/images/bannerdeathvalley.jpeg
+author_profile: true
+classes: wide
 ---
-Initializing
+
+Teaching experiences
