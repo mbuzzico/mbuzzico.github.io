@@ -30,4 +30,4 @@ Both my graduate and postdoctoral research have centered on the intersection of 
 {: style="text-align: justify;"}
 Outside of research, I love rock climbing, hiking in the mountains, playing music, volunteering at animal shelters, and being with my two cats.
 
-<img src="/assets/images/cats.jpeg">
+<img src="/assets/images/cats.jpeg" width="100%" align="center"> 
