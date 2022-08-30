@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "CV"
     url: /assets/images/Resume_EAY_2022.pdf
   - title: "Research"
