@@ -18,4 +18,6 @@ classes: wide
 
 ## Model Development
 
-## Estuarine Plumes
+## Estuarine Plume Dynamics
+<video width="90%" height="auto" max-height="100%" controls="controls">
+  <source src="/assets/images/plume_video.mp4" type="video/mp4">
