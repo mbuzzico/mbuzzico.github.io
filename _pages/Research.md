@@ -11,6 +11,9 @@ classes: wide
 ---
 ## Vertical Structure of Mesoscale Ocean Eddies
 <div style="width:60%;  padding-left: 20px; float:right">
+    {% include figure image_path="/assets/images/BTBC.png" caption = "*Regimes in eddy vertical structure based on the first EOF of the CM2.6 0.1 degree model.*"%}
+</div>
+<div style="width:60%;  padding-left: 20px; float:right">
     {% include figure image_path="/assets/images/Regimes.png" caption = "*Regimes in eddy vertical structure based on the first EOF of the CM2.6 0.1 degree model.*"%}
 </div>
 
