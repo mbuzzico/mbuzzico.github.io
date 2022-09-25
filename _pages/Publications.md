@@ -16,7 +16,7 @@ feature_row1-0:
 
 feature_row1-1:
   - image_path: /assets/images/NW2paper.png
-    excerpt: "[NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions](https://doi.org/10.5194/egusphere-2022-186)  <br />
+    excerpt: "[NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions](https://doi.org/10.5194/gmd-15-6567-2022)  <br />
     Gustavo Marques, Nora Loose, **Elizabeth Yankovsky**, Jacob Steinberg, Chiung-Yin Chang, Neeraja Bhamidipati, Alistair Adcroft, Baylor Fox-Kemper, Stephen Griffies, Robert Hallberg, Malte Jansen, Hemant Khatri, and Laure Zanna (2022).
     *Submitted to Geoscientific Model Development*. <br />
     Preprint doi: https://doi.org/10.1002/essoar.10511043.1"
@@ -66,9 +66,9 @@ feature_row1-7:
 ### Preprints
 &nbsp;
 {% include feature_row id="feature_row1-0" type="right" %}
-{% include feature_row id="feature_row1-1" type="right" %}
 ### Journal Articles
 &nbsp;
+{% include feature_row id="feature_row1-1" type="right" %}
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="right" %}
 {% include feature_row id="feature_row1-4" type="right" %}
