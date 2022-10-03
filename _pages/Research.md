@@ -12,7 +12,7 @@ classes: wide
 ## Vertical Structure of Ocean Eddies
 
 <div style="width:60%;  padding-left: 10px; float:right">
-    {% include figure image_path="/assets/images/Regimes.png" caption ="*Regimes in eddy vertical structure based on the CM2.6 0.1 degree model, classified according to traditional dynamical modes into: barotropic (constant in depth), equivalent barotropic (decaying with depth but remaining nonzero near the bottom), baroclinic (at least one zero crossing in the vertical), and surface mode (decaying to zero near the bottom).*"%}
+    {% include figure image_path="/assets/images/clusters.png" caption ="*Regimes in eddy vertical structure based on the CM2.6 0.1 degree model. Clusters are obtained by applying Gaussian Mixture modeling to characterize eddy velocity as a function of depth.*"%}
 </div>
 Mesoscale eddies are swirling oceanic vortices with horizontal scales of 10s-100s of kilometers, evolving on time scales of days to months. These features occupy a disproportionately large role in setting the global ocean state and contain about 90% of the ocean’s kinetic energy. Mesoscale eddies modulate the ocean’s stratification, energetic pathways, and mixing/transport of physical and biogeochemical tracers such as heat, oxygen, carbon, and nutrients. 
 
