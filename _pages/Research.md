@@ -58,7 +58,7 @@ My graduate and postdoctoral research have both focused on studying physical pro
 
 In my postdoc research I have been focusing on improving our ability to model mesoscale eddies in modern ocean models, with a focus on representing the vertical structure influences of eddies accurately. I am especially interested in how to parameterize mesoscale eddies at resolutions that partially resolve them, a challenging regime for existing schemes. 
 
-## Estuarine Plume Dynamics
+## Dynamics of Estuaries
 Estuaries are dynamic locations where rivers meet the ocean. They serve as habitats for a rich breadth of species, influence coastal ocean properties, and provide significant ecological, cultural, and economic benefits. Recently I have been studying the various regimes characterizing freshwater river plumes through high-resolution numerical modeling using the nonhydrostatic MITgcm. I have focused how these freshwater plumes entrain and mix with the ambient ocean, what influences whether or not they maintain coherence as they propagate offshore, and the role of submesoscale instabilities and waves in their dynamics.
 
 <center>
