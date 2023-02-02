@@ -9,10 +9,9 @@ classes: wide
 
 feature_row1-8:
   - image_path: assets/images/plume_paper.png
-    excerpt: "[The cross-shelf regime of a wind-driven supercritical river plume]() <br />
+    excerpt: "[The cross-shelf regime of a wind-driven supercritical river plume](https://www.researchgate.net/publication/367778945_The_Cross-Shelf_Regime_of_a_Wind-Driven_Supercritical_River_Plume) <br />
     **Elizabeth Yankovsky** and Alexander Yankovsky (2023).
-    *Submitted to Journal of Physical Oceanography*. <br />
-    doi: Coming soon!"
+    *Submitted to Journal of Physical Oceanography*."
 
 feature_row1-7:
   - image_path: assets/images/JAMES_YZS2022.png
