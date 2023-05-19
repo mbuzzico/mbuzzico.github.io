@@ -16,14 +16,14 @@ minimal_mistakes_skin      : "contrast" # "default", "air", "aqua", "contrast", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elizabeth Yankovsky"
+title                    : "Michele Buzzicotti"
 title_separator          : "-"
 subtitle                 : #"July 2022"
-name                     : "Elizabeth Yankovsky"
+name                     : "Michele Buzzicotti"
 description              : "My personal website."
-url                      : "https://elizabethyankovsky.github.io"
+url                      : "https://mbuzzico.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : ElizabethYankovsky/elizabethyankovsky.github.io
+repository               : mbuzzico/mbuzzico.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Elizabeth Yankovsky"
-  avatar           : "/assets/images/bio_photo.png"
-  bio              : "Physical Oceanographer"
-  location         : "Princeton, New Jersey, USA"
-  email            : #"eay8226@nyu.edu"
+  name             : "Michele Buzzicotti"
+  avatar           : "/assets/images/Michele.png"
+  bio              : "Researcher Dept. Of Physics"
+  location         : "University of Rome "Tor Vergata""
+  #email            : "michele.buzzicotti@roma2.infn.it"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "eay8226@nyu.edu"
+      url: "michele.buzzicotti@roma2.infn.it"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
-      url: "https://orcid.org/0000-0003-3612-549X"
+      url: "https://orcid.org/0000-0002-7162-5038"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ElizabethYankovsky"
+      url: "https://github.com/mbuzzico"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
