@@ -108,11 +108,8 @@ author:
   avatar           : "/assets/images/Michele.png"
   bio              : "Researcher"
   location         : "University of Rome Tor Vergata"
-  #email            : "michele.buzzicotti@roma2.infn.it"
+  email            : "michele.buzzicotti@roma2.infn.it"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      michele.buzzicotti@roma2.infn.it
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.it/citations?user=H8YsByEAAAAJ&hl=it"
