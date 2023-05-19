@@ -6,28 +6,12 @@ header:
 classes: wide
 ---
 {: style="text-align: justify;"}
-Hello!
-I am a postdoctoral researcher at the [Courant Institute of Mathematical Sciences](https://caos.cims.nyu.edu)
-at New York University specializing in physical oceanography, ocean modelling, and geophysical fluid dynamics.
-I am a member of the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io).
-My research within the CPT aims to understand the vertical structure of mesoscale eddies in the ocean, and how to parameterize eddy influences in modern ocean models.
-Broadly, I am interested in ocean turbulence and its influences on the large-scale ocean state and climate.
+Michele Buzzicotti is a theoretical physicist active in the field of Statistical Mechanics and Complex Systems. His main research activity is in the study of turbulent flows using direct numerical simulations and Artificial Intelligence tools. Working from both Eulerian and Lagrangian points of view, he is interested in the development of new paradigms for data analysis as well as of non-linear, out of equilibrium models, such as Large-Eddy-Simulation closures for the small-scale dynamics of high Reynolds flows.
+
+Within the [Department of Physics in Tor Vergata](https://www.fisica.uniroma2.it/) is part of the ERC Advanced Grant project ["Smart-TURB"](https://smart-turb.roma2.infn.it/init/routes/#/logging/welcome), PI: Prof. Luca Biferale. At the same time, he is involved in other collaborations within the Department, the main ones are the collaborations with Prof. Mauro Sbragaglia for Lattice Boltzmann simulations and with Prof. Nazario Tantalo to apply AI techniques for the solution of inverse problems of high energy physics. 
+
+Dr. Buzzicotti has a visiting scholar position at the University of Rochester (NY, USA) for collaboration with Prof. Hussein Aluie on the analysis of geophysical data.
 
 {: style="text-align: justify;"}
-Prior to joining the CPT, I completed my PhD in the [Princeton Atmospheric and Oceanic Sciences Program](https://aos.princeton.edu) and conducted research within the [NOAA Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov).
-My graduate research focused on the dense water formation processes within the vast continental shelf regions of the Arctic Ocean.
-I studied the role of mesoscale and submesoscale turbulence in shaping how dense water flows undergo mixing and modify the density structure of the Arctic.
-Through performing high-resolution processes studies using the GFDL-MOM6 and the MITgcm, I identified submesoscale symmetric instability to be a dominant mechanism guiding mixing in dense Arctic flows.
-Based on the physical insights that I obtained from process studies, I developed a parameterization for deep-ocean symmetric instability that represents mixing in the bottom boundary layer fronts that terrain-following flows give rise to.
-I implemented and tested this parameterization within the GFDL-MOM6, and found that the scheme successfully captures water mass modification when the instabilities are not resolved by the model grid.
-In the final component of my PhD research, I turned to a global general circulation model (the GFDL-OM4) and considered the climatically-relevant question of how dense water formation and density structure of the Arctic will change as the region undergoes some of the most drastic warming on Earth.
 
-<img src="/assets/images/research_chart.jpg">
-
-{: style="text-align: justify;"}
-Both my graduate and postdoctoral research have centered on the synthesis of high-resolution idealized modeling to understand the physics governing a given system, applying this understanding to improving coarser-resolution global climate models, and using global climate models to study the influences of small-scale phenomena on the global oceanic circulation.
-
-{: style="text-align: justify;"}
-Outside of research, I love rock climbing, hiking in the mountains, volunteering at animal shelters, and relaxing with my two cats.
-
-<img src="/assets/images/cats.jpeg" width="100%" align="center"> 
+<img src="/assets/images/research_chart.jpg" width="100%" align="center">
