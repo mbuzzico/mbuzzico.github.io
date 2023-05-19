@@ -10,7 +10,7 @@ Michele Buzzicotti is a theoretical physicist active in the field of Statistical
 
 Within the [Department of Physics in Tor Vergata](https://www.fisica.uniroma2.it/) is part of the ERC Advanced Grant project ["Smart-TURB"](https://smart-turb.roma2.infn.it/init/routes/#/logging/welcome), PI: Prof. Luca Biferale. At the same time, he is involved in other collaborations within the Department, the main ones are the collaborations with Prof. Mauro Sbragaglia for Lattice Boltzmann simulations and with Prof. Nazario Tantalo to apply AI techniques for the solution of inverse problems of high energy physics. 
 
-Dr. Buzzicotti has a visiting scholar position at the University of Rochester (NY, USA) for collaboration with Prof. Hussein Aluie on the analysis of geophysical data.
+Dr. Buzzicotti has a visiting scholar position at the [University of Rochester (NY, USA)](https://www.hajim.rochester.edu/me/index.html) for collaboration with Prof. Hussein Aluie on the analysis of geophysical data.
 
 {: style="text-align: justify;"}
 
