@@ -3,7 +3,8 @@ main:
   - title: "Home"
     url: /
   - title: "CV"
-    url: /assets/images/cv_buzzicotti.pdf
+    url: /CV/ 
+    #url: /assets/images/cv_buzzicotti.pdf
   - title: "Research"
     url: /Research/
   - title: "Publications"
