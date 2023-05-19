@@ -5,13 +5,13 @@ main:
   - title: "CV"
     url: /CV/ 
     #url: /assets/images/cv_buzzicotti.pdf
-  - title: "Research"
-    url: /Research/
-  - title: "Publications"
-    url: /Publications/
-  - title: "Invited Talks"
-    url: /InvitedTalks/
-  - title: "Outreach"
-    url: /Outreach/
-  - title: "Teaching"
-    url: /Teaching/
+  #- title: "Research"
+  #  url: /Research/
+  #- title: "Publications"
+  #  url: /Publications/
+  #- title: "Invited Talks"
+  #  url: /InvitedTalks/
+  #- title: "Outreach"
+  #  url: /Outreach/
+  #- title: "Teaching"
+  #  url: /Teaching/
