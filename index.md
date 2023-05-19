@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/Oregon_coast.jpeg
+  image: /assets/images/spectrum.png
 classes: wide
 ---
 {: style="text-align: justify;"}
