@@ -12,6 +12,11 @@ classes: wide
 
 feature_row1-8:
   - image_path: assets/images/pracedays_awardbuzzicotti.jpeg
-    excerpt: " [PRACE BEST SCIENTIFIC PRESENTATION AWARD](https://prace-ri.eu/about/prace-awards/pracedaysawards/pracedays-awards-2019/) <br />
-    **PRACE BEST SCIENTIFIC PRESENTATION AWARD** (2019)."
-    
+      excerpt: " [PRACE BEST SCIENTIFIC PRESENTATION AWARD](https://prace-ri.eu/about/prace-awards/pracedaysawards/pracedays-awards-2019/) <br />
+      **PRACE BEST SCIENTIFIC PRESENTATION AWARD** (2019)."
+   
+   
+&nbsp;
+{% include feature_row id="feature_row1-8" type="right" %}
+
+---
