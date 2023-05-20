@@ -43,7 +43,12 @@ feature_row1-4:
     *Phys. Rev. Fluids* 6, 050503 <br />
     doi: https://doi.org/10.1103/PhysRevFluids.6.050503"
     
-  
+  feature_row1-6:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Lagrangian statistics for Navier–Stokes turbulence under Fourier-mode reduction: fractal and homogeneous decimations](https://iopscience.iop.org/article/10.1088/1367-2630/18/11/113047/meta) <br />
+    **M. Buzzicotti**, A. Bhatnagar, L. Biferale, A. S. Lanotte & S. Sankar Ray (2016).
+    *New J. Phys.* 18 113047 <br />
+    doi: 10.1088/1367-2630/18/11/113047 "
   
     
 --- 
@@ -58,4 +63,5 @@ feature_row1-4:
 {% include feature_row id="feature_row1-3" type="right" %}
 {% include feature_row id="feature_row1-4" type="right" %}
 {% include feature_row id="feature_row1-5" type="right" %}
+{% include feature_row id="feature_row1-6" type="right" %}
 
