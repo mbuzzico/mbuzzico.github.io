@@ -150,6 +150,14 @@ feature_row1-p1:
       <br />
     doi: https://doi.org/10.48550/arXiv.2106.04157"
     
+ feature_row1-p2:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Reconstructing Rayleigh-Benard flows out of temperature-only measurements using Physics-Informed Neural Networks](https://doi.org/10.48550/arXiv.2301.07769) <br />
+    P. Clark Di Leoni, L. Agasthya, **M. Buzzicotti**, L. Biferale (2023).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2301.07769"  
+  
+    
 feature_row1-d1:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[TURB-Rot. A large database of 3d and 2d snapshots from turbulent rotating flows](https://doi.org/10.48550/arXiv.2006.07469) <br />
@@ -157,13 +165,22 @@ feature_row1-d1:
       <br />
     doi: https://doi.org/10.48550/arXiv.2006.07469"
     
+feature_row1-d2:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[TURB-Lagr. A database of 3d Lagrangian trajectories in homogeneous and isotropic turbulence](https://doi.org/10.48550/arXiv.2303.08662) <br />
+    L. Biferale, F. Bonaccorso, **M. Buzzicotti**, C. Calascibetta (2023).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2303.08662"
+    
     
 --- 
 ### Dadasets
 &nbsp;
+{% include feature_row id="feature_row1-d2" type="right" %}
 {% include feature_row id="feature_row1-d1" type="right" %}
 ### Preprints
 &nbsp;
+{% include feature_row id="feature_row1-p2" type="right" %}
 {% include feature_row id="feature_row1-p1" type="right" %}
 ### Journal Articles
 &nbsp;
