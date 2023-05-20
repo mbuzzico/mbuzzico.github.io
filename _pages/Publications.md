@@ -15,7 +15,7 @@ feature_row1-1:
     *Chaos* 29 (10): 103138. <br />
     doi: https://doi.org/10.1063/1.5120370 "
     
-feature_row1-1:
+feature_row1-2:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[Energy transfer in turbulence under rotation](https://doi.org/10.1103/PhysRevFluids.3.034802) <br />
     **M. Buzzicotti**, H. Aluie, L. Biferale & M. Linkmann (2018).
@@ -30,3 +30,5 @@ feature_row1-1:
 ### Journal Articles
 &nbsp;
 {% include feature_row id="feature_row1-1" type="right" %}
+{% include feature_row id="feature_row1-2" type="right" %}
+
