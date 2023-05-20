@@ -36,19 +36,28 @@ feature_row1-4:
     *Physics of Fluids* 29, 111101. <br />
     doi: https://doi.org/10.1063/1.4990082"
  
- feature_row1-5:
+feature_row1-5:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[Reconstruction of turbulent data with deep generative models for semantic inpainting from TURB-Rot database](https://doi.org/10.1103/PhysRevFluids.6.050503)<br />
     **M. Buzzicotti**, F. Bonaccorso, P. Clark Di Leoni, and L. Biferale (2021).
     *Phys. Rev. Fluids* 6, 050503 <br />
     doi: https://doi.org/10.1103/PhysRevFluids.6.050503"
     
-  feature_row1-6:
+feature_row1-6:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[Lagrangian statistics for Navier–Stokes turbulence under Fourier-mode reduction: fractal and homogeneous decimations](https://iopscience.iop.org/article/10.1088/1367-2630/18/11/113047/meta) <br />
     **M. Buzzicotti**, A. Bhatnagar, L. Biferale, A. S. Lanotte & S. Sankar Ray (2016).
     *New J. Phys.* 18 113047 <br />
-    doi: 10.1088/1367-2630/18/11/113047 "
+    doi: 10.1088/1367-2630/18/11/113047"
+    
+feature_row1-7:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Intermittency in fractal Fourier hydrodynamics: Lessons from the Burgers equation](https://doi.org/10.1103/PhysRevE.93.033109) <br />
+    **M. Buzzicotti**, L. Biferale, U. Frisch, S. Sankar Ray (2016).
+    *Phys. Rev. E* 93, 033109  <br />
+    doi: https://doi.org/10.1103/PhysRevE.93.033109"
+    
+    
   
     
 --- 
@@ -64,4 +73,5 @@ feature_row1-4:
 {% include feature_row id="feature_row1-4" type="right" %}
 {% include feature_row id="feature_row1-5" type="right" %}
 {% include feature_row id="feature_row1-6" type="right" %}
+{% include feature_row id="feature_row1-7" type="right" %}
 
