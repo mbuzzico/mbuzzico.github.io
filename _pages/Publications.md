@@ -67,9 +67,16 @@ feature_row1-8:
 feature_row1-9:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[Phase and precession evolution in the Burgers equation](https://doi.org/10.1140/epje/i2016-16034-5) <br />
-    **M. Buzzicotti**, B. P. Murray, L. Biferale, M. D. Bustamante(2016).
+    **M. Buzzicotti**, B. P. Murray, L. Biferale & M. D. Bustamante(2016).
     *The European Physical Journal E* volume 39, Article number: 34.  <br />
     doi: https://doi.org/10.1140/epje/i2016-16034-5"
+    
+ feature_row1-10:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Multi-scale properties of large eddy simulations: correlations between resolved-scale velocity-field increments and subgrid-scale quantities](https://doi.org/10.1080/14685248.2018.1462497) <br />
+    M. Linkmann, M. Buzzicotti & L. Biferale (2018).
+    *Journal of Turbulence*, 19:6, 493-527.  <br />
+    doi: https://doi.org/10.1080/14685248.2018.1462497"
     
     
   
@@ -90,4 +97,5 @@ feature_row1-9:
 {% include feature_row id="feature_row1-7" type="right" %}
 {% include feature_row id="feature_row1-8" type="right" %}
 {% include feature_row id="feature_row1-9" type="right" %}
+{% include feature_row id="feature_row1-10" type="right" %}
 
