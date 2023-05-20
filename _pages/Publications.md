@@ -64,6 +64,13 @@ feature_row1-8:
     *Physics of Fluids* 32, 125116.  <br />
     doi: https://doi.org/10.1063/5.0031835"
     
+feature_row1-9:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Phase and precession evolution in the Burgers equation](https://doi.org/10.1140/epje/i2016-16034-5) <br />
+    **M. Buzzicotti**, B. P. Murray, L. Biferale, M. D. Bustamante(2016).
+    *The European Physical Journal E* volume 39, Article number: 34.  <br />
+    doi: https://doi.org/10.1140/epje/i2016-16034-5"
+    
     
   
     
@@ -82,4 +89,5 @@ feature_row1-8:
 {% include feature_row id="feature_row1-6" type="right" %}
 {% include feature_row id="feature_row1-7" type="right" %}
 {% include feature_row id="feature_row1-8" type="right" %}
+{% include feature_row id="feature_row1-9" type="right" %}
 
