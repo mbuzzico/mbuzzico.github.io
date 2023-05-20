@@ -141,6 +141,14 @@ feature_row1-19:
     G. P. Offermans, L. Biferale, **M. Buzzicotti** & M. Linkmann (2018).
     *Physics of Plasmas* 25, 122307.  <br />
     doi: https://doi.org/10.1063/1.5046842"
+    
+    
+feature_row1-20:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Inferring turbulent environments via machine learning](https://doi.org/10.1140/epje/s10189-022-00258-3) <br />
+    **M. Buzzicotti** & F. Bonaccorso (2022).
+    *The European Physical Journal E*  45, Article number: 102   <br />
+    doi: https://doi.org/10.1140/epje/s10189-022-00258-3"
   
 
 feature_row1-p1:
@@ -150,7 +158,7 @@ feature_row1-p1:
       <br />
     doi: https://doi.org/10.48550/arXiv.2106.04157"
     
- feature_row1-p2:
+feature_row1-p2:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[Reconstructing Rayleigh-Benard flows out of temperature-only measurements using Physics-Informed Neural Networks](https://doi.org/10.48550/arXiv.2301.07769) <br />
     P. Clark Di Leoni, L. Agasthya, **M. Buzzicotti**, L. Biferale (2023).
@@ -203,4 +211,5 @@ feature_row1-d2:
 {% include feature_row id="feature_row1-17" type="right" %}
 {% include feature_row id="feature_row1-18" type="right" %}
 {% include feature_row id="feature_row1-19" type="right" %}
+{% include feature_row id="feature_row1-20" type="right" %}
 
