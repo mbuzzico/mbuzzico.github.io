@@ -22,6 +22,13 @@ feature_row1-2:
     *Phys. Rev. Fluids* 3, 034802. <br />
     doi: https://doi.org/10.1103/PhysRevFluids.3.034802 "
     
+feature_row1-3:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Effect of filter type on the statistics of energy transfer between resolved and subfilter scales from a-priori analysis of direct numerical simulations of isotropic turbulence](https://doi.org/10.1080/14685248.2017.1417597) <br />
+    **M. Buzzicotti**, M. Linkmann, H. Aluie, L. Biferale, J. Brasseur & C. Meneveau (2018).
+     *Journal of Turbulence*, 19:2, 167-197. <br />
+    doi: https://doi.org/10.1080/14685248.2017.1417597 "
+    
 --- 
 
 ### Preprints
@@ -31,4 +38,5 @@ feature_row1-2:
 &nbsp;
 {% include feature_row id="feature_row1-1" type="right" %}
 {% include feature_row id="feature_row1-2" type="right" %}
+{% include feature_row id="feature_row1-3" type="right" %}
 
