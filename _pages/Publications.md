@@ -112,13 +112,37 @@ feature_row1-15:
     B. A. Storer, **M. Buzzicotti**, H. Khatri, S. M. Griffies & H. Aluie (2022).
     *Nature Communications* volume 13, Article number: 5314.  <br />
     doi: https://doi.org/10.1038/s41467-022-33031-3"
+    
+feature_row1-16:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Statistical properties of turbulence in the presence of a smart small-scale control](https://doi.org/10.1103/PhysRevLett.124.084504) <br />
+    **M. Buzzicotti**, L. Biferale & F. Toschi (2020).
+    *Phys. Rev. Lett.* 124, 084504   <br />
+    doi: https://doi.org/10.1103/PhysRevLett.124.084504"
   
+
+feature_row1-p1:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Spatio-temporal coarse-graining decomposition of the global ocean geostrophic kinetic energy](https://doi.org/10.48550/arXiv.2106.04157) <br />
+    **M. Buzzicotti**, B. A. Storer, H. Khatri, S. M. Griffies & H. Aluie (2021).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2106.04157"
+    
+feature_row1-d1:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[TURB-Rot. A large database of 3d and 2d snapshots from turbulent rotating flows](https://doi.org/10.48550/arXiv.2006.07469) <br />
+    L. Biferale, F. Bonaccorso, **M. Buzzicotti**, P. Clark Di Leoni (2020).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2006.07469"
+    
     
 --- 
-
+### Dadasets
+&nbsp;
+{% include feature_row id="feature_row1-d1" type="right" %}
 ### Preprints
 &nbsp;
-
+{% include feature_row id="feature_row1-p1" type="right" %}
 ### Journal Articles
 &nbsp;
 {% include feature_row id="feature_row1-1" type="right" %}
@@ -136,4 +160,5 @@ feature_row1-15:
 {% include feature_row id="feature_row1-13" type="right" %}
 {% include feature_row id="feature_row1-14" type="right" %}
 {% include feature_row id="feature_row1-15" type="right" %}
+{% include feature_row id="feature_row1-16" type="right" %}
 
