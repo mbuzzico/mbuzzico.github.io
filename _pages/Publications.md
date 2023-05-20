@@ -119,6 +119,28 @@ feature_row1-16:
     **M. Buzzicotti**, L. Biferale & F. Toschi (2020).
     *Phys. Rev. Lett.* 124, 084504   <br />
     doi: https://doi.org/10.1103/PhysRevLett.124.084504"
+    
+    
+feature_row1-17:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Nonuniversal behaviour of helical two-dimensional three-component turbulence](https://doi.org/10.1140/epje/i2018-11612-1) <br />
+    M. Linkmann, **M. Buzzicotti** & L. Biferale (2018).
+    *The European Physical Journal E* 41, Article number: 4   <br />
+    doi: https://doi.org/10.1140/epje/i2018-11612-1"
+    
+feature_row1-18:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Inertial range statistics of the entropic lattice Boltzmann method in three-dimensional turbulence](https://doi.org/10.1103/PhysRevE.104.015302) <br />
+    **M. Buzzicotti** & G. Tauzin (2021).
+    *Phys. Rev. E* 104, 015302.  <br />
+    doi: https://doi.org/10.1103/PhysRevE.104.015302"
+    
+feature_row1-19:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[A priori study of the subgrid energy transfers for small-scale dynamo in kinematic and saturation regimes](https://doi.org/10.1063/1.5046842) <br />
+    G. P. Offermans, L. Biferale, **M. Buzzicotti** & M. Linkmann (2018).
+    *Physics of Plasmas* 25, 122307.  <br />
+    doi: https://doi.org/10.1063/1.5046842"
   
 
 feature_row1-p1:
@@ -161,4 +183,7 @@ feature_row1-d1:
 {% include feature_row id="feature_row1-14" type="right" %}
 {% include feature_row id="feature_row1-15" type="right" %}
 {% include feature_row id="feature_row1-16" type="right" %}
+{% include feature_row id="feature_row1-17" type="right" %}
+{% include feature_row id="feature_row1-18" type="right" %}
+{% include feature_row id="feature_row1-19" type="right" %}
 
