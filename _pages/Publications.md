@@ -89,10 +89,29 @@ feature_row1-12:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[Phase transitions and flux-loop metastable states in rotating turbulence](https://doi.org/10.1103/PhysRevFluids.5.104603) <br />
     P. Clark Di Leoni, A. Alexakis, L. Biferale & **M. Buzzicotti** (2020).
-    Phys. Rev. Fluids 5, 104603.  <br />
+    *Phys. Rev. Fluids* 5, 104603.  <br />
     doi: https://doi.org/10.1103/PhysRevFluids.5.104603"
+    
+feature_row1-13:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Optimal control of point-to-point navigation in turbulent time dependent flows using reinforcement learning](https://doi.org/10.1007/978-3-030-77091-4_14) <br />
+    **M. Buzzicotti**, L. Biferale, F. Bonaccorso, P. Clark di Leoni & K. Gustavsson (2021).
+    *AIxIA 2020* – Advances in Artificial Intelligence. AIxIA 2020. Lecture Notes in Computer Science(), vol 12414. Springer, Cham. <br />
+    doi: https://doi.org/10.1007/978-3-030-77091-4_14"
    
+feature_row1-14:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[On the inverse energy transfer in rotating turbulence](https://doi.org/10.1140/epje/i2018-11742-4) <br />
+    **M. Buzzicotti**, P. Clark Di Leoni & L. Biferale (2018).
+    *The European Physical Journal E* 41, Article number: 131.  <br />
+    doi: https://doi.org/10.1140/epje/i2018-11742-4"
 
+feature_row1-15:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Global energy spectrum of the general oceanic circulation](https://doi.org/10.1038/s41467-022-33031-3) <br />
+    B. A. Storer, **M. Buzzicotti**, H. Khatri, S. M. Griffies & H. Aluie (2022).
+    *Nature Communications* volume 13, Article number: 5314.  <br />
+    doi: https://doi.org/10.1038/s41467-022-33031-3"
   
     
 --- 
@@ -114,4 +133,7 @@ feature_row1-12:
 {% include feature_row id="feature_row1-10" type="right" %}
 {% include feature_row id="feature_row1-11" type="right" %}
 {% include feature_row id="feature_row1-12" type="right" %}
+{% include feature_row id="feature_row1-13" type="right" %}
+{% include feature_row id="feature_row1-14" type="right" %}
+{% include feature_row id="feature_row1-15" type="right" %}
 
