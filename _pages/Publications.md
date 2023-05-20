@@ -57,6 +57,13 @@ feature_row1-7:
     *Phys. Rev. E* 93, 033109  <br />
     doi: https://doi.org/10.1103/PhysRevE.93.033109"
     
+feature_row1-8:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Synchronizing subgrid scale models of turbulence to data](https://doi.org/10.1063/5.0031835) <br />
+    **M. Buzzicotti** & P. Clark Di Leoni (2020).
+    *Physics of Fluids* 32, 125116.  <br />
+    doi: https://doi.org/10.1063/5.0031835"
+    
     
   
     
@@ -74,4 +81,5 @@ feature_row1-7:
 {% include feature_row id="feature_row1-5" type="right" %}
 {% include feature_row id="feature_row1-6" type="right" %}
 {% include feature_row id="feature_row1-7" type="right" %}
+{% include feature_row id="feature_row1-8" type="right" %}
 
