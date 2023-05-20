@@ -7,8 +7,8 @@ main:
     url: /assets/images/cv_buzzicotti.pdf
   #- title: "Research"
   #  url: /Research/
-  #- title: "Publications"
-  #  url: /Publications/
+  - title: "Publications"
+    url: /Publications/
   #- title: "Invited Talks"
   #  url: /InvitedTalks/
   #- title: "Outreach"
