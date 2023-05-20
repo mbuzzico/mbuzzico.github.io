@@ -178,7 +178,13 @@ feature_row1-p3:
     T. Li, **M. Buzzicotti**, L. Biferale, F. Bonaccorso, S. Chen & M. Wan (2022).
       <br />
     doi: https://doi.org/10.48550/arXiv.2210.11921" 
-  
+
+feature_row1-p4:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Generative Adversarial Networks to infer velocity components in rotating turbulent flows](https://doi.org/10.48550/arXiv.2301.07541) <br />
+    T. Li, **M. Buzzicotti**, L. Biferale & F. Bonaccorso (2023).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2301.07541" 
     
 feature_row1-d1:
   - #image_path: /assets/images/Zermelo.png
@@ -202,6 +208,7 @@ feature_row1-d2:
 {% include feature_row id="feature_row1-d1" type="right" %}
 ### Preprints
 &nbsp;
+{% include feature_row id="feature_row1-p4" type="right" %}
 {% include feature_row id="feature_row1-p2" type="right" %}
 {% include feature_row id="feature_row1-p3" type="right" %}
 {% include feature_row id="feature_row1-p1" type="right" %}
