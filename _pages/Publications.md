@@ -71,12 +71,19 @@ feature_row1-9:
     *The European Physical Journal E* volume 39, Article number: 34.  <br />
     doi: https://doi.org/10.1140/epje/i2016-16034-5"
     
- feature_row1-10:
+feature_row1-10:
   - #image_path: /assets/images/Zermelo.png
     excerpt: "[Multi-scale properties of large eddy simulations: correlations between resolved-scale velocity-field increments and subgrid-scale quantities](https://doi.org/10.1080/14685248.2018.1462497) <br />
-    M. Linkmann, M. Buzzicotti & L. Biferale (2018).
+    M. Linkmann, **M. Buzzicotti** & L. Biferale (2018).
     *Journal of Turbulence*, 19:6, 493-527.  <br />
     doi: https://doi.org/10.1080/14685248.2018.1462497"
+    
+feature_row1-11:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Self-similar subgrid-scale models for inertial range turbulence and accurate measurements of intermittency](https://doi.org/10.1103/PhysRevLett.123.014503) <br />
+    L. Biferale, F. Bonaccorso, **M. Buzzicotti** & K. P. Iyer (2019).
+    *Phys. Rev. Lett.* 123, 014503.  <br />
+    doi: https://doi.org/10.1103/PhysRevLett.123.014503"
     
     
   
@@ -98,4 +105,5 @@ feature_row1-9:
 {% include feature_row id="feature_row1-8" type="right" %}
 {% include feature_row id="feature_row1-9" type="right" %}
 {% include feature_row id="feature_row1-10" type="right" %}
+{% include feature_row id="feature_row1-11" type="right" %}
 
