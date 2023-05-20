@@ -35,6 +35,13 @@ feature_row1-4:
     L. Biferale, **M. Buzzicotti** & M. Linkmann (2017).
     *Physics of Fluids* 29, 111101. <br />
     doi: https://doi.org/10.1063/1.4990082"
+ 
+ feature_row1-5:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Reconstruction of turbulent data with deep generative models for semantic inpainting from TURB-Rot database](https://doi.org/10.1103/PhysRevFluids.6.050503) <br />
+    **M. Buzzicotti**, F. Bonaccorso, P. Clark Di Leoni, and L. Biferale (2021).
+    *Phys. Rev. Fluids* 6, 050503 <br />
+    doi: https://doi.org/10.1103/PhysRevFluids.6.050503"
     
   
   
@@ -50,4 +57,5 @@ feature_row1-4:
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="right" %}
 {% include feature_row id="feature_row1-4" type="right" %}
+{% include feature_row id="feature_row1-5" type="right" %}
 
