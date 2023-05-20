@@ -29,6 +29,13 @@ feature_row1-3:
     *Journal of Turbulence*, 19:2, 167-197. <br />
     doi: https://doi.org/10.1080/14685248.2017.1417597"
     
+feature_row1-4:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[From two-dimensional to three-dimensional turbulence through two-dimensional three-component flows](https://doi.org/10.1063/1.4990082) <br />
+    L. Biferale, **M. Buzzicotti** & M. Linkmann (2017).
+    *Physics of Fluids* 29, 111101. <br />
+    doi: https://doi.org/10.1063/1.4990082"
+    
   
   
     
@@ -42,4 +49,5 @@ feature_row1-3:
 {% include feature_row id="feature_row1-1" type="right" %}
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="right" %}
+{% include feature_row id="feature_row1-4" type="right" %}
 
