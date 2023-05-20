@@ -163,7 +163,14 @@ feature_row1-p2:
     excerpt: "[Reconstructing Rayleigh-Benard flows out of temperature-only measurements using Physics-Informed Neural Networks](https://doi.org/10.48550/arXiv.2301.07769) <br />
     P. Clark Di Leoni, L. Agasthya, **M. Buzzicotti**, L. Biferale (2023).
       <br />
-    doi: https://doi.org/10.48550/arXiv.2301.07769"  
+    doi: https://doi.org/10.48550/arXiv.2301.07769" 
+    
+feature_row1-p3:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Data reconstruction of turbulent flows with Gappy POD, Extended POD and Generative Adversarial Networks](https://doi.org/10.48550/arXiv.2210.11921) <br />
+    T. Li, **M. Buzzicotti**, L. Biferale, F. Bonaccorso, S. Chen & M. Wan (2022).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2210.11921" 
   
     
 feature_row1-d1:
@@ -189,6 +196,7 @@ feature_row1-d2:
 ### Preprints
 &nbsp;
 {% include feature_row id="feature_row1-p2" type="right" %}
+{% include feature_row id="feature_row1-p3" type="right" %}
 {% include feature_row id="feature_row1-p1" type="right" %}
 ### Journal Articles
 &nbsp;
