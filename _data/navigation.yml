@@ -2,13 +2,11 @@
 main:
   #- title: "Home"
   #  url: /
-  - title: "CV"
-    #url: /CV/ 
+  #- title: "CV"
+  #  #url: /CV/ 
     url: /assets/images/cv_buzzicotti.pdf
   - title: "Research"
     url: /Research/
-  - title: "Datasets"
-     url: https://smart-turb.roma2.infn.it/init/routes/#/logging/welcome
   - title: "Publications"
     url: /Publications/
   - title: "Invited Talks"
@@ -17,3 +15,5 @@ main:
     url: /Teaching/
   - title: "Outreach"
     url: /Outreach/
+  - title: "Datasets"
+    url: https://smart-turb.roma2.infn.it/init/routes/#/logging/welcome
