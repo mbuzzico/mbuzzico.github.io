@@ -4,7 +4,7 @@ main:
   #  url: /
   #- title: "CV"
   #  #url: /CV/ 
-    url: /assets/images/cv_buzzicotti.pdf
+  #  url: /assets/images/cv_buzzicotti.pdf
   - title: "Research"
     url: /Research/
   - title: "Publications"
