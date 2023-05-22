@@ -112,7 +112,7 @@ author:
   links:
     -label: "CV"
       icon: "fas fa-fw fa-link"
-      url: /CV/
+      url: /assets/images/cv_buzzicotti.pdf
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.it/citations?user=H8YsByEAAAAJ&hl=it"
