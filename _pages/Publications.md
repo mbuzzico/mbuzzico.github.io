@@ -3,7 +3,7 @@ layout: single
 title: "Publications"
 permalink: /Publications/
 header:
-    overlay_image: /assets/images/banner1.jpg
+    overlay_image: /assets/images/Papers.png
 author_profile: true
 classes: wide
 
