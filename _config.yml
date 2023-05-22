@@ -111,7 +111,7 @@ author:
   email            : "michele.buzzicotti@roma2.infn.it"
   links:
     
-    - label: "CV"
+    - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-link"
       url: "/assets/images/cv_buzzicotti.pdf"
     - label: "Google Scholar"
