@@ -110,9 +110,6 @@ author:
   location         : "University of Rome Tor Vergata"
   email            : "michele.buzzicotti@roma2.infn.it"
   links:
-    -label: "CV"
-      icon: "fas fa-fw fa-link"
-      url: /assets/images/cv_buzzicotti.pdf
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.it/citations?user=H8YsByEAAAAJ&hl=it"
