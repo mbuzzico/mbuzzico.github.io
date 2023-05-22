@@ -209,13 +209,11 @@ feature_row1-d2:
     
     
 --- 
-### Datasets
-&nbsp;
-{% include feature_row id="feature_row1-d2" type="right" %}
-{% include feature_row id="feature_row1-d1" type="right" %}
 ### Preprints
 &nbsp;
 {% include feature_row id="feature_row1-p4" type="right" %}
+{% include feature_row id="feature_row1-d2" type="right" %}
+{% include feature_row id="feature_row1-d1" type="right" %}
 {% include feature_row id="feature_row1-p2" type="right" %}
 {% include feature_row id="feature_row1-p3" type="right" %}
 {% include feature_row id="feature_row1-p1" type="right" %}
