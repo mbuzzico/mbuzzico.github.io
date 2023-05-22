@@ -5,8 +5,8 @@ main:
   - title: "CV"
     #url: /CV/ 
     url: /assets/images/cv_buzzicotti.pdf
-  #- title: "Research"
-  #  url: /Research/
+  - title: "Research"
+    url: /Research/
   - title: "Publications"
     url: /Publications/
   #- title: "Invited Talks"
