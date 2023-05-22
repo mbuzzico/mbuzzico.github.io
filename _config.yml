@@ -16,7 +16,7 @@ minimal_mistakes_skin      : "contrast" # "default", "air", "aqua", "contrast", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele Buzzicotti"
+title                    : ""
 title_separator          : "-"
 subtitle                 : #"July 2022"
 name                     : "Michele Buzzicotti"
@@ -279,7 +279,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: true
