@@ -60,7 +60,9 @@ I contributed to develop the application of **Multifractal** and **Large Deviati
 In order to gain some theoretical insight of the connection between small-scale structures and intermittency in 3d turbulence, I also studied the **robustness of singular solutions** in non-linear 1D PDEs upon **reducing the number of degrees of freedom** based on a **Galerkin** projection approach (with L. Biferale, U. Frisch, S.S. Ray. Physical Review E 2016) [15]. Focusing on the Burgers’ equation I studied the connection between shock-like solutions in physical space and **synchronization of Fourier-space phase dynamics** (see **M. Buzzicotti**, B.P. Murray, L. Biferale, M.D. Bustamante European Physical Journal E 2016 on my scholar page), see Fig. 4 for a graphical illustration. Furthermore, I examined the role of the **non-linear multiscale coupling** in fluid dynamics, which is a key question for all modelling approaches of turbulence.
 
 {: style="text-align: justify;"}
+
 --------------------------
+
 {: style="text-align: justify;"}
 **15 papers (the ones more relevant for the application not the most cited).** TC: time cited (Google Scholar). 
 {: style="text-align: justify;"}
