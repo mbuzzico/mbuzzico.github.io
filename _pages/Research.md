@@ -16,7 +16,7 @@ My background and training are in **Theoretical Physics, Statistical Mechanics, 
 Below, I summarize some of the important previous achievements that characterize my scientific background.
 {: style="text-align: justify;"}
 
-## Vertical Structure of Ocean Eddies
+## Analysis of Ocean circulation data.
 
 <div style="width:60%;  padding-left: 10px; float:right">
     {% include figure image_path="/assets/images/AnalysisofOceancirculationdata.png" %}
