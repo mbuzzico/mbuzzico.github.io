@@ -29,3 +29,4 @@ Aside of the main lectures I have been involved in several short courses targete
 2)	**STIMULATE PhD School on Machine and Reinforcement Learning, Rare Events and Tensor Networks**: The school took place in September 2020 and was offered online due to the COVID pandemic. Here I gave a short course on Deep Learning and Reinforcement Learning applications.
 {: style="text-align: justify;"}
 3)	**Big Data (PCTO program)**: This is a computer laboratory course for high school students who are invited to experience the academic environment and be exposed to ongoing research problems and activities. The project is organised in 5 full afternoons (4 hours) divided between lectures with slides and laboratory activities. The number of students attending the lectures was in the order of 60 people, while only a selected sub-group of 25 students participated in the laboratory.
+{: style="text-align: justify;"}
