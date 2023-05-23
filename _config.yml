@@ -113,7 +113,7 @@ author:
     
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-link"
-      url: "/assets/images/cv_buzzicotti.pdf"
+      url: "/assets/images/buzzicotti_CV.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.it/citations?user=H8YsByEAAAAJ&hl=it"
