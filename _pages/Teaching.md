@@ -20,7 +20,7 @@ Before and during my PhD studies and during my postdoctoral work, I have been ab
 4)	**Hands on Machine Learning**: This is a PhD course that did not exist before, which I thought of as an integration of the Machine Learning Methods course, aiming to introduce PhD students to the main libraries and codes available for implementing an ML algorithm. The course is organised in 16 hours of lectures where students learn the details of implementation, from data preparation to setting up the architecture and learning strategy, to the final validation of the results. The course has been highly appreciated by many PhD students and has also been followed by postdocs working in different groups at the University of Rome Tor Vergata, and on average it was attended by **15 students**.
 
 {: style="text-align: justify;"}
-##Short courses
+## Short courses
 {: style="text-align: justify;"}
 Aside of the main lectures I have been involved in several short courses targeted to different audience, from high-school students up to PhD summer schools.
 
