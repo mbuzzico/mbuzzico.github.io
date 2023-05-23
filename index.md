@@ -14,4 +14,4 @@ Dr. Buzzicotti has a visiting scholar position at the [University of Rochester (
 
 {: style="text-align: justify;"}
 
-<img src="/assets/images/image.png" width="100%" align="center">
+<img src="/assets/images/3vel_2048.png" width="100%" align="center">
