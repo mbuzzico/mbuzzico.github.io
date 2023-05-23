@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sharing Science with the Community"
+title: "Outreach"
 permalink: /Outreach/
 header:
     #overlay_image: /assets/images/bannerocean.jpeg
