@@ -66,6 +66,7 @@ In order to gain some theoretical insight of the connection between small-scale 
 {: style="text-align: justify;"}
 **15 papers (the ones more relevant for the application not the most cited).** TC: time cited (Google Scholar). 
 {: style="text-align: justify;"}
+
 **[1]** B.A. Storer, **M. Buzzicotti**, H. Khatri, S.M. Griffies, H. Aluie. Global energy spectrum of the general oceanic circulation. Nature communications 13 (1), 1-9, (2022). **TC 5.**
 {: style="text-align: justify;"}
 **[2] M. Buzzicotti**, B.A. Storer, S.M. Griffies, H. Aluie. Spatio-temporal coarse-graining decomposition of the global ocean geostrophic kinetic energy. arXiv preprint arXiv:2106.04157, (2021). **TC 7.**
