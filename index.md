@@ -18,4 +18,4 @@ Within the [Department of Physics in Tor Vergata](https://www.fisica.uniroma2.it
 I am involved in several national and international collaborations, the main one being with [Prof. Hussein Aluie](http://www.complexflowgroup.com/) from the [University of Rochester (NY, USA)](https://www.hajim.rochester.edu/me/index.html) for the development of multi-scale analysis methods for complex systems of geophysical interest, as the global Ocean circulation.
 
 
-<img src="/assets/DALLE.png" width="100%" align="center">
+<img src="/assets/images/DALLE.png" width="100%" align="center">
