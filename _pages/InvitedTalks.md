@@ -24,6 +24,5 @@ classes: wide
 {: style="text-align: justify;"}
 2016		**COST Lagrangian transport: from complex flows to complex fluids; Lecce (Italy)**. Title: “Eulerian and Lagrangian turbulence on fractal Fourier set”.
 
-![image](https://github.com/mbuzzico/mbuzzico.github.io/assets/60366743/a260f6c0-c9db-4f3e-b5d6-05025ddad0e8)
 
 
