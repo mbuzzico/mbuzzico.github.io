@@ -10,10 +10,7 @@ classes: wide
 
 ---
 {: style="text-align: justify;"}
-My background and training are in **Theoretical Physics, Statistical Mechanics, High Performance Computing, Big Data,** and **Physics of the Atmosphere and Meteorology**. I have always enjoyed approaching geophysical questions with both a theoretical and a numerical point of view. Since the beginning of my research career, I worked on **Dynamical System** and **Turbulence** (both phenomenology and numerical simulations, with/without particles, in different setups, isotropic, anisotropic, wall-bounded, rotating/stratified), using **Pseudo-Spectral, Finite Difference** codes, **Lattice Boltzmann** and **Data-Driven numerical Methods**, where I have been the person in charge in the group for the development of High-Performance codes to be executed on some of the European largest HPC facilities. My activity ranges from the development of non-linear, out of equilibrium models for small-scale closure of high Reynolds flows to the **control Lagrangian Turbulent problems** [10]. From the applied point of view, I have worked on questions such as **optimal navigation** in complex environments [6]. Today I am mainly active on the side of **Data Reconstruction** and **Physics-Inferring** problems, where I have worked on idealized/complex setups as high Reynolds rotating turbulent flows to reconstruct missing data from partial measurements [3,4,5]. I have also recently initiated a new important field of research on **Geophysical Data Analysis** with the goal to disentangle the role of the multiscale physics mechanisms at play in the Ocean, resulted recently in the publication of the kinetic global energy spectrum of the general Ocean circulation [1,2]. 
-{: style="text-align: justify;"}
-
-Below, I summarize some of the important previous achievements that characterize my scientific background.
+Below, I summarize some of the important achievements that characterize my scientific background.
 {: style="text-align: justify;"}
 
 ## Analysis of Ocean circulation data.
