@@ -107,7 +107,7 @@ feature_row1-14:
     doi: https://doi.org/10.1140/epje/i2018-11742-4"
 
 feature_row1-15:
-  - #image_path: /assets/images/Zermelo.png
+  - image_path: /assets/images/natcomm.png
     excerpt: "[Global energy spectrum of the general oceanic circulation](https://doi.org/10.1038/s41467-022-33031-3) <br />
     B. A. Storer, **M. Buzzicotti**, H. Khatri, S. M. Griffies & H. Aluie (2022).
     *Nature Communications* volume 13, Article number: 5314.  <br />
