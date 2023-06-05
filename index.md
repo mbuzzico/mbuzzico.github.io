@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/banner4.jpg
+  image: /assets/images/Baltic_blooms_pillars.jpg
 classes: wide
 ---
 {: style="text-align: justify;"}
