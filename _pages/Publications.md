@@ -163,7 +163,23 @@ feature_row1-22:
     **M. Buzzicotti**, F. Bonaccorso, P. Clark Di Leoni, L. Biferale  (2021).
     *Phys. Rev. Fluids* 6, 050503.  <br />
     doi: https://doi.org/10.1103/PhysRevFluids.6.050503"
+
   
+feature_row1-23:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Reconstructing Rayleigh-Benard flows out of temperature-only measurements using Physics-Informed Neural Networks](https://doi.org/10.48550/arXiv.2301.07769) <br />
+    P. Clark Di Leoni, L. Agasthya, **M. Buzzicotti**, L. Biferale (2023).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2301.07769"   
+    
+
+feature_row1-24:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Generative Adversarial Networks to infer velocity components in rotating turbulent flows](https://doi.org/10.48550/arXiv.2301.07541) <br />
+    T. Li, **M. Buzzicotti**, L. Biferale & F. Bonaccorso (2023).
+      <br />
+    doi: https://doi.org/10.48550/arXiv.2301.07541" 
+    
 
 feature_row1-p1:
   - image_path: /assets/images/JAMES.png
@@ -171,13 +187,7 @@ feature_row1-p1:
     **M. Buzzicotti**, B. A. Storer, H. Khatri, S. M. Griffies & H. Aluie (2021).
       <br />
     doi: https://doi.org/10.48550/arXiv.2106.04157"
-    
-feature_row1-p2:
-  - #image_path: /assets/images/Zermelo.png
-    excerpt: "[Reconstructing Rayleigh-Benard flows out of temperature-only measurements using Physics-Informed Neural Networks](https://doi.org/10.48550/arXiv.2301.07769) <br />
-    P. Clark Di Leoni, L. Agasthya, **M. Buzzicotti**, L. Biferale (2023).
-      <br />
-    doi: https://doi.org/10.48550/arXiv.2301.07769" 
+ 
     
 feature_row1-p3:
   - #image_path: /assets/images/Zermelo.png
@@ -186,12 +196,6 @@ feature_row1-p3:
       <br />
     doi: https://doi.org/10.48550/arXiv.2210.11921" 
 
-feature_row1-p4:
-  - #image_path: /assets/images/Zermelo.png
-    excerpt: "[Generative Adversarial Networks to infer velocity components in rotating turbulent flows](https://doi.org/10.48550/arXiv.2301.07541) <br />
-    T. Li, **M. Buzzicotti**, L. Biferale & F. Bonaccorso (2023).
-      <br />
-    doi: https://doi.org/10.48550/arXiv.2301.07541" 
     
 feature_row1-d1:
   - #image_path: /assets/images/Zermelo.png
@@ -211,33 +215,35 @@ feature_row1-d2:
 --- 
 ### Preprints
 &nbsp;
-{% include feature_row id="feature_row1-p4" type="right" %}
+{% include feature_row id="feature_row1-p1" type="right" %}
+{% include feature_row id="feature_row1-p3" type="right" %}
 {% include feature_row id="feature_row1-d2" type="right" %}
 {% include feature_row id="feature_row1-d1" type="right" %}
-{% include feature_row id="feature_row1-p2" type="right" %}
-{% include feature_row id="feature_row1-p3" type="right" %}
-{% include feature_row id="feature_row1-p1" type="right" %}
 ### Journal Articles
 &nbsp;
+{% include feature_row id="feature_row1-24" type="right" %}
+{% include feature_row id="feature_row1-23" type="right" %}
+{% include feature_row id="feature_row1-21" type="right" %}
 {% include feature_row id="feature_row1-22" type="right" %}
+{% include feature_row id="feature_row1-20" type="right" %}
+{% include feature_row id="feature_row1-15" type="right" %}
+{% include feature_row id="feature_row1-18" type="right" %}
+{% include feature_row id="feature_row1-5" type="right" %}
+{% include feature_row id="feature_row1-13" type="right" %}
+{% include feature_row id="feature_row1-8" type="right" %}
+{% include feature_row id="feature_row1-12" type="right" %}
+{% include feature_row id="feature_row1-16" type="right" %}
 {% include feature_row id="feature_row1-1" type="right" %}
+{% include feature_row id="feature_row1-11" type="right" %}
+{% include feature_row id="feature_row1-19" type="right" %}
+{% include feature_row id="feature_row1-10" type="right" %}
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="right" %}
+{% include feature_row id="feature_row1-14" type="right" %}
+{% include feature_row id="feature_row1-17" type="right" %}
 {% include feature_row id="feature_row1-4" type="right" %}
-{% include feature_row id="feature_row1-5" type="right" %}
 {% include feature_row id="feature_row1-6" type="right" %}
 {% include feature_row id="feature_row1-7" type="right" %}
-{% include feature_row id="feature_row1-8" type="right" %}
 {% include feature_row id="feature_row1-9" type="right" %}
-{% include feature_row id="feature_row1-10" type="right" %}
-{% include feature_row id="feature_row1-11" type="right" %}
-{% include feature_row id="feature_row1-12" type="right" %}
-{% include feature_row id="feature_row1-13" type="right" %}
-{% include feature_row id="feature_row1-14" type="right" %}
-{% include feature_row id="feature_row1-15" type="right" %}
-{% include feature_row id="feature_row1-16" type="right" %}
-{% include feature_row id="feature_row1-17" type="right" %}
-{% include feature_row id="feature_row1-18" type="right" %}
-{% include feature_row id="feature_row1-19" type="right" %}
-{% include feature_row id="feature_row1-20" type="right" %}
+
 
