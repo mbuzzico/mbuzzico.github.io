@@ -65,7 +65,7 @@ feature_row1-8:
     doi: https://doi.org/10.1063/5.0031835"
     
 feature_row1-9:
-  - image_path: /assets/images/EPJE_conver2.png
+  - image_path: /assets/images/EPJE_cover2.png
     excerpt: "[Phase and precession evolution in the Burgers equation](https://doi.org/10.1140/epje/i2016-16034-5) <br />
     **M. Buzzicotti**, B. P. Murray, L. Biferale & M. D. Bustamante(2016).
     *The European Physical Journal E* volume 39, Article number: 34.  <br />
