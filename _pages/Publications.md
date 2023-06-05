@@ -65,7 +65,7 @@ feature_row1-8:
     doi: https://doi.org/10.1063/5.0031835"
     
 feature_row1-9:
-  - image_path: /assets/images/EPJE_conver2.pdf
+  - image_path: /assets/images/EPJE_conver2.png
     excerpt: "[Phase and precession evolution in the Burgers equation](https://doi.org/10.1140/epje/i2016-16034-5) <br />
     **M. Buzzicotti**, B. P. Murray, L. Biferale & M. D. Bustamante(2016).
     *The European Physical Journal E* volume 39, Article number: 34.  <br />
@@ -100,7 +100,7 @@ feature_row1-13:
     doi: https://doi.org/10.1007/978-3-030-77091-4_14"
    
 feature_row1-14:
-  - image_path: /assets/images/EPJE_cover.pdf
+  - image_path: /assets/images/EPJE_cover.png
     excerpt: "[On the inverse energy transfer in rotating turbulence](https://doi.org/10.1140/epje/i2018-11742-4) <br />
     **M. Buzzicotti**, P. Clark Di Leoni & L. Biferale (2018).
     *The European Physical Journal E* 41, Article number: 131.  <br />
@@ -166,7 +166,7 @@ feature_row1-22:
   
 
 feature_row1-p1:
-  - #image_path: /assets/images/Zermelo.png
+  - image_path: /assets/images/JAMES.png
     excerpt: "[Spatio-temporal coarse-graining decomposition of the global ocean geostrophic kinetic energy](https://doi.org/10.48550/arXiv.2106.04157) <br />
     **M. Buzzicotti**, B. A. Storer, H. Khatri, S. M. Griffies & H. Aluie (2021).
       <br />
