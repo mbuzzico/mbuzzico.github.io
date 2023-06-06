@@ -167,18 +167,20 @@ feature_row1-22:
   
 feature_row1-23:
   - #image_path: /assets/images/Zermelo.png
-    excerpt: "[Reconstructing Rayleigh-Benard flows out of temperature-only measurements using Physics-Informed Neural Networks](https://doi.org/10.48550/arXiv.2301.07769) <br />
+    excerpt: "[Reconstructing Rayleigh-Benard flows out of temperature-only measurements using Physics-Informed Neural Networks](https://doi.org/10.1140/epje/s10189-023-00276-9) <br />
     P. Clark Di Leoni, L. Agasthya, **M. Buzzicotti**, L. Biferale (2023).
+    *The European Physical Journal E*  46, Article number: 16 
       <br />
-    doi: https://doi.org/10.48550/arXiv.2301.07769"   
+    doi: https://doi.org/10.1140/epje/s10189-023-00276-9"   
     
 
 feature_row1-24:
   - #image_path: /assets/images/Zermelo.png
-    excerpt: "[Generative Adversarial Networks to infer velocity components in rotating turbulent flows](https://doi.org/10.48550/arXiv.2301.07541) <br />
+    excerpt: "[Generative Adversarial Networks to infer velocity components in rotating turbulent flows](https://doi.org/10.1140/epje/s10189-023-00286-7) <br />
     T. Li, **M. Buzzicotti**, L. Biferale & F. Bonaccorso (2023).
+    *The European Physical Journal E*  46, Article number: 31   
       <br />
-    doi: https://doi.org/10.48550/arXiv.2301.07541" 
+    doi: https://doi.org/10.1140/epje/s10189-023-00286-7" 
     
 
 feature_row1-p1:
