@@ -10,6 +10,7 @@ classes: wide
 ---
 
 [School webpage](https://stimulateworkshop2020.wordpress.com/)
+
 [Link to all Lectures](https://www.dropbox.com/sh/i1p4mqqgvf1khij/AADIoZzG1RFstXiEVjO6AAq0a?dl=0)
 
 
