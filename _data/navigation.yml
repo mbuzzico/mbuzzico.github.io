@@ -12,6 +12,8 @@ main:
     url: /InvitedTalks/
   - title: "Teaching"
     url: /Teaching/
+  - title: "Stimulate"
+    url: /PhDSchool/
   - title: "Outreach"
     url: /Outreach/
   - title: "Datasets"
