@@ -8,7 +8,8 @@ author_profile: true
 classes: wide
 
 ---
-url: https://www.dropbox.com/sh/i1p4mqqgvf1khij/AADIoZzG1RFstXiEVjO6AAq0a?dl=0
+
+[Link to all Lectures](https://www.dropbox.com/sh/i1p4mqqgvf1khij/AADIoZzG1RFstXiEVjO6AAq0a?dl=0)
 
 
 
