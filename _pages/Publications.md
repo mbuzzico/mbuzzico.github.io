@@ -183,20 +183,48 @@ feature_row1-24:
     doi: https://doi.org/10.1140/epje/s10189-023-00286-7" 
     
 
-feature_row1-p1:
+feature_row1-25:
   - image_path: /assets/images/JAMES.png
-    excerpt: "[Spatio-temporal coarse-graining decomposition of the global ocean geostrophic kinetic energy](https://doi.org/10.48550/arXiv.2106.04157) <br />
+    excerpt: "[Spatio-temporal coarse-graining decomposition of the global ocean geostrophic kinetic energy](https://doi.org/10.1029/2023MS003693) <br />
     **M. Buzzicotti**, B. A. Storer, H. Khatri, S. M. Griffies & H. Aluie (2021).
+    *Journal of Advances in Modeling Earth Systems 15.6 (2023): e2023MS003693.*
       <br />
-    doi: https://doi.org/10.48550/arXiv.2106.04157"
+    doi: https://doi.org/10.1029/2023MS003693"
  
     
-feature_row1-p3:
+feature_row1-26:
   - #image_path: /assets/images/Zermelo.png
-    excerpt: "[Data reconstruction of turbulent flows with Gappy POD, Extended POD and Generative Adversarial Networks](https://doi.org/10.48550/arXiv.2210.11921) <br />
+    excerpt: "[Multi-scale reconstruction of turbulent rotating flows with proper orthogonal decomposition and generative adversarial networks.](https://doi.org/10.1017/jfm.2023.573) <br />
     T. Li, **M. Buzzicotti**, L. Biferale, F. Bonaccorso, S. Chen & M. Wan (2022).
+    *Journal of Fluid Mechanics 971 (2023): A3.*
       <br />
-    doi: https://doi.org/10.48550/arXiv.2210.11921" 
+    doi: https://doi.org/10.1017/jfm.2023.573" 
+
+
+feature_row1-27:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Multi-scale reconstruction of turbulent rotating flows with proper orthogonal decomposition and generative adversarial networks.](https://doi.org/10.1017/jfm.2023.573) <br />
+    T. Li, **M. Buzzicotti**, L. Biferale, F. Bonaccorso, S. Chen & M. Wan (2022).
+    *Journal of Fluid Mechanics 971 (2023): A3.*
+      <br />
+    doi: https://doi.org/10.1017/jfm.2023.573"
+
+feature_row1-28:
+  - #image_path: /assets/images/Zermelo.png
+    excerpt: "[Global cascade of kinetic energy in the ocean and the atmospheric imprint](https://doi.org/10.1126/sciadv.adi7420) <br />
+    B. A. Storer, **M. Buzzicotti**, H. Khatri, S. M. Griffies, & H. Aluie (2023).
+    *Science Advances, 9(51)*
+      <br />
+    doi: https://doi.org/10.1126/sciadv.adi7420"
+    
+feature_row1-29:
+  - image_path: /assets/images/CoverPageNatureMI.png
+    excerpt: "[Synthetic Lagrangian turbulence by generative diffusion models. Nature Machine Intelligence](https://doi.org/10.1038/s42256-024-00810-0) <br />
+    T. Li, L. Biferale, F. Bonaccorso, M. A. Scarpolini, & **M. Buzzicotti** (2024).
+    *Nature Machine Intelligence, 1-11*
+      <br />
+    doi: https://doi.org/10.1038/s42256-024-00810-0"
+    
 
     
 feature_row1-d1:
@@ -218,11 +246,15 @@ feature_row1-d2:
 ### Preprints
 &nbsp;
 {% include feature_row id="feature_row1-p1" type="right" %}
-{% include feature_row id="feature_row1-p3" type="right" %}
 {% include feature_row id="feature_row1-d2" type="right" %}
 {% include feature_row id="feature_row1-d1" type="right" %}
 ### Journal Articles
 &nbsp;
+{% include feature_row id="feature_row1-29" type="right" %}
+{% include feature_row id="feature_row1-28" type="right" %}
+{% include feature_row id="feature_row1-27" type="right" %}
+{% include feature_row id="feature_row1-26" type="right" %}
+{% include feature_row id="feature_row1-25" type="right" %}
 {% include feature_row id="feature_row1-24" type="right" %}
 {% include feature_row id="feature_row1-23" type="right" %}
 {% include feature_row id="feature_row1-21" type="right" %}
