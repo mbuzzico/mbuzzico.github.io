@@ -245,7 +245,6 @@ feature_row1-d2:
 --- 
 ### Preprints
 &nbsp;
-{% include feature_row id="feature_row1-p1" type="right" %}
 {% include feature_row id="feature_row1-d2" type="right" %}
 {% include feature_row id="feature_row1-d1" type="right" %}
 ### Journal Articles
