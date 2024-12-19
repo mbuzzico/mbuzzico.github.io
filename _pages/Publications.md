@@ -190,7 +190,6 @@ feature_row1-25:
     *Journal of Advances in Modeling Earth Systems 15.6 (2023): e2023MS003693.*
       <br />
     doi: https://doi.org/10.1029/2023MS003693"
- 
     
 feature_row1-26:
   - #image_path: /assets/images/Zermelo.png
@@ -199,7 +198,6 @@ feature_row1-26:
     *Journal of Fluid Mechanics 971 (2023): A3.*
       <br />
     doi: https://doi.org/10.1017/jfm.2023.573" 
-
 
 feature_row1-27:
   - #image_path: /assets/images/Zermelo.png
