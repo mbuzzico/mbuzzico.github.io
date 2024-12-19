@@ -13,6 +13,14 @@ classes: wide
 Below, I summarize some of the important achievements that characterize my scientific background.
 {: style="text-align: justify;"}
 
+## Generation of Lagrangian Turbulent Data with Diffusion Models 
+<div style="width:60%;  padding-left: 10px; float:right">
+    {% include figure image_path="/assets/images/CoverPageNatureMI.png" %}
+</div>
+
+Lagrangian turbulence lies at the core of numerous applied and fundamental problems related to the physics of dispersion and mixing in engineering, biofluids, the atmosphere, oceans and astrophysics. Despite exceptional theoretical, numerical and experimental efforts conducted over the past 30 years, no existing models are capable of faithfully reproducing statistical and topological properties exhibited by particle trajectories in turbulence. We propose a machine learning approach, based on a state-of-the-art diffusion model, to generate single-particle trajectories in three-dimensional turbulence at high Reynolds numbers, thereby bypassing the need for direct numerical simulations or experiments to obtain reliable Lagrangian data. Our model demonstrates the ability to reproduce most statistical benchmarks across time scales, including the fat-tail distribution for velocity increments, the anomalous power law and the increased intermittency around the dissipative scale. Slight deviations are observed below the dissipative scale, particularly in the acceleration and flatness statistics. Surprisingly, the model exhibits strong generalizability for extreme events, producing events of higher intensity and rarity that still match the realistic statistics. This paves the way for producing synthetic high-quality datasets for pretraining various downstream applications of Lagrangian turbulence.
+
+
 ## Analysis of Ocean circulation data.
 
 <div style="width:60%;  padding-left: 10px; float:right">
